@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T14:11:20.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.2" etag="123w3uZHUiAHMjmHbVUu" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T14:19:11.088Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="pISntJvFvyxZeY4RNdCi" version="24.2.2" type="github">
   <diagram name="第 1 页" id="LlDZJBcikCnKS_ieD5xa">
-    <mxGraphModel>
+    <mxGraphModel dx="1019" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="34X_elYX6h45MBW99sLK-1" value="objA" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="89" y="130.5" width="100" height="237.5" as="geometry" />
+        </mxCell>
+        <mxCell id="34X_elYX6h45MBW99sLK-2" value="objB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;" vertex="1" parent="1">
+          <mxGeometry x="239" y="129.5" width="100" height="237.5" as="geometry" />
+        </mxCell>
+        <mxCell id="34X_elYX6h45MBW99sLK-3" value="loop(l,u)" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=65;height=22;" vertex="1" parent="1">
+          <mxGeometry x="62" y="207.25" width="297" height="103.75" as="geometry" />
+        </mxCell>
+        <mxCell id="34X_elYX6h45MBW99sLK-4" value="example" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=70;height=30;" vertex="1" parent="1">
+          <mxGeometry x="48" y="86" width="332" height="314" as="geometry" />
+        </mxCell>
+        <mxCell id="34X_elYX6h45MBW99sLK-7" value="F&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="246.13" width="28" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
