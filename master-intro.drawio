@@ -1535,6 +1535,50 @@
         <mxCell id="_DJsCOdrFfuwZy35hVdP-25" value="&lt;b&gt;基于区域封装验证的原型工具&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="539" y="1508" width="213" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QU4GpbUkW2vTITcrCNwR-1" value="" style="html=1;verticalAlign=bottom;endArrow=blockThin;curved=0;rounded=1;endFill=1;strokeWidth=2;endSize=2;fontColor=default;" edge="1" parent="1" target="QU4GpbUkW2vTITcrCNwR-6">
+          <mxGeometry x="-0.0002" width="80" relative="1" as="geometry">
+            <mxPoint x="1054" y="1801" as="sourcePoint" />
+            <mxPoint x="1116" y="1801" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QU4GpbUkW2vTITcrCNwR-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;loop (1,2)&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=93;height=20;fillStyle=auto;shadow=0;strokeWidth=3;swimlaneFillColor=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="960.07" y="1828" width="352.93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QU4GpbUkW2vTITcrCNwR-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;\(\texttt{sensing}\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="943" y="1847" width="143" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="QU4GpbUkW2vTITcrCNwR-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;\(\texttt{receiving}\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1172.95" y="1848" width="151" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="QU4GpbUkW2vTITcrCNwR-5" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Senor&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=19;strokeWidth=3;rounded=1;shadow=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="1757" width="60" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="QU4GpbUkW2vTITcrCNwR-6" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;CC&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=19;strokeWidth=3;rounded=1;shadow=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="1755" width="60" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="QU4GpbUkW2vTITcrCNwR-7" value="" style="html=1;verticalAlign=bottom;endArrow=blockThin;curved=0;rounded=1;endFill=1;strokeWidth=2;endSize=2;fontColor=default;" edge="1" parent="1">
+          <mxGeometry x="-0.0002" width="80" relative="1" as="geometry">
+            <mxPoint x="1057" y="1865.5" as="sourcePoint" />
+            <mxPoint x="1193.5" y="1865.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QU4GpbUkW2vTITcrCNwR-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;\(\texttt{notified}\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1184.95" y="1783" width="139" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="QU4GpbUkW2vTITcrCNwR-9" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\(\texttt{start}\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="942.45" y="1783" width="125" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="QU4GpbUkW2vTITcrCNwR-11" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 21px;&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1102.05" y="1791" width="38" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="QU4GpbUkW2vTITcrCNwR-12" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 21px;&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1106" y="1879" width="38" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="QU4GpbUkW2vTITcrCNwR-13" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;AIS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=171;height=29;strokeWidth=2.5;shadow=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1720" width="455" height="203" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
