@@ -1,176 +1,173 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" modified="2026-04-05T04:37:10.993Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.4.8" etag="GKeKS50uEShSkF3NYKjD" type="github">
   <diagram name="第 1 页" id="GyMAeHQtHN1qKVTRPYQ1">
-    <mxGraphModel dx="1557" dy="2256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="840" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pPdNYl5p3d496LgT7030-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="90" width="520" x="62.5" y="66" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="62.5" y="66" width="520" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ICU7X2RRJJgjdRMnvC6y-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="研究目的：ASCVD疾病负担趋势及归因" vertex="1">
-          <mxGeometry height="50" width="215" x="215" y="-130" as="geometry" />
+        <mxCell id="ICU7X2RRJJgjdRMnvC6y-1" value="研究目的：ASCVD疾病负担趋势及归因" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="215" y="-130" width="215" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ICU7X2RRJJgjdRMnvC6y-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(0, 76, 153);&quot;&gt;研究对象与分层&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="262.5" y="76" as="geometry" />
+        <mxCell id="ICU7X2RRJJgjdRMnvC6y-6" value="&lt;span style=&quot;color: rgb(0, 76, 153);&quot;&gt;研究对象与分层&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="262.5" y="76" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;color: rgb(0, 76, 153);&quot;&gt;5个SDI分层&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="411.5" y="106" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-22" value="&lt;span style=&quot;color: rgb(0, 76, 153);&quot;&gt;10个典型国家&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="411.5" y="106" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;color: rgb(0, 76, 153);&quot;&gt;GBD21个地区&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="265" y="106" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-23" value="&lt;span style=&quot;color: rgb(0, 76, 153);&quot;&gt;GBD21个地区&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="265" y="106" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font color=&quot;#004c99&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 76, 153);&quot;&gt;全球及SDI分层&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="127.5" y="106" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-24" value="&lt;font color=&quot;#004c99&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 76, 153);&quot;&gt;全球及SDI分层&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="127.5" y="106" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="" vertex="1">
-          <mxGeometry height="90" width="520" x="62.5" y="-57" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="62.5" y="-57" width="520" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#3B635D;" value="数据来源" vertex="1">
-          <mxGeometry height="30" width="110" x="262.5" y="-47" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-27" value="数据来源" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#3B635D;" parent="1" vertex="1">
+          <mxGeometry x="262.5" y="-50" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=#3B635D;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;SDI历史数据集&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="410" y="-17" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-30" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;文献回顾&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=#3B635D;" parent="1" vertex="1">
+          <mxGeometry x="270" y="-20" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=#3B635D;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;IHME历史及未来人口预测数据&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="272.5" y="-17" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-31" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;GBD2023&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;疾病负担数据&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=#3B635D;" parent="1" vertex="1">
+          <mxGeometry x="123.5" y="-20" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=#3B635D;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;GBD2023&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;疾病负担数据&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="127.5" y="-17" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="1" vertex="1">
+          <mxGeometry x="67" y="504" width="525" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" value="" vertex="1">
-          <mxGeometry height="120" width="525" x="67" y="504" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-33" value="&lt;font&gt;&lt;span style=&quot;caret-color: rgb(0, 76, 153);&quot;&gt;研究内容三：1990-2023年疾病负担Das Gupta分解分析&lt;/span&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;fontColor=#CC6600;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="168.75" y="514" width="302.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;fontColor=#CC6600;fontStyle=1" value="&lt;font&gt;&lt;span style=&quot;caret-color: rgb(0, 76, 153);&quot;&gt;研究内容三：1990-2023年疾病负担驱动因素分解&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="270" x="177.5" y="514" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-35" value="&lt;span style=&quot;&quot;&gt;流行病学变化效应&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="1" vertex="1">
+          <mxGeometry x="422.5" y="569" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" value="&lt;span style=&quot;&quot;&gt;流行病学变化效应&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="422.5" y="569" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-36" value="&lt;span style=&quot;&quot;&gt;人口老龄化效应&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="1" vertex="1">
+          <mxGeometry x="275" y="569" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" value="&lt;span style=&quot;&quot;&gt;人口老龄化效应&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="275" y="569" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-37" value="&lt;span style=&quot;&quot;&gt;人口增长效应&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" parent="1" vertex="1">
+          <mxGeometry x="130" y="569" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#CC6600;" value="&lt;span style=&quot;&quot;&gt;人口增长效应&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="130" y="569" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-38" value="方法：Das Gupta分解法" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;fontColor=#CC6600;" parent="1" vertex="1">
+          <mxGeometry x="191.5" y="539" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;fontColor=#CC6600;" value="方法：Das Gupta分解法" vertex="1">
-          <mxGeometry height="30" width="230" x="191.5" y="539" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#736D34;" parent="1" vertex="1">
+          <mxGeometry x="68.5" y="663" width="525" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#736D34;" value="" vertex="1">
-          <mxGeometry height="120" width="525" x="68.5" y="663" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-41" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 76, 153);&quot;&gt;&lt;b&gt;研究内容四：风险因素归因分析&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;caret-color: rgb(0, 76, 153);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;fontColor=#736D34;" parent="1" vertex="1">
+          <mxGeometry x="199" y="663" width="203.5" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;fontColor=#736D34;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 76, 153);&quot;&gt;&lt;b&gt;研究内容四：风险因素归因分析&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;span style=&quot;caret-color: rgb(0, 76, 153);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="55" width="203.5" x="199" y="663" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-42" value="环境/职业风险因素" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#736D34;" parent="1" vertex="1">
+          <mxGeometry x="396.5" y="728" width="113.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#736D34;" value="环境/职业风险因素" vertex="1">
-          <mxGeometry height="35" width="113.5" x="396.5" y="728" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-43" value="行为风险因素" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#736D34;" parent="1" vertex="1">
+          <mxGeometry x="270.5" y="728" width="109.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#736D34;" value="行为风险因素" vertex="1">
-          <mxGeometry height="35" width="109.5" x="270.5" y="728" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-44" value="代谢风险因素" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#736D34;" parent="1" vertex="1">
+          <mxGeometry x="140.25" y="728" width="109.75" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#736D34;" value="代谢风险因素" vertex="1">
-          <mxGeometry height="35" width="109.75" x="140.25" y="728" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#660033;" parent="1" vertex="1">
+          <mxGeometry x="70" y="824" width="525" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#660033;" value="" vertex="1">
-          <mxGeometry height="120" width="525" x="70" y="824" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-47" value="&lt;font&gt;&lt;span style=&quot;caret-color: rgb(0, 76, 153);&quot;&gt;研究内容五：相关类型干预的健康收益模拟&lt;/span&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#660033;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="172.5" y="824" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#660033;fontStyle=1" value="&lt;font&gt;&lt;span style=&quot;caret-color: rgb(0, 76, 153);&quot;&gt;研究内容五：相关类型干预的健康收益模拟&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="240" x="172.5" y="824" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-49" value="行为环境风险干预（烟草/PM2.5）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#660033;" parent="1" vertex="1">
+          <mxGeometry x="320" y="894" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#660033;" value="行为环境风险干预（烟草/PM2.5）" vertex="1">
-          <mxGeometry height="30" width="220" x="320" y="894" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-50" value="代谢风险干预（血压/血脂/BMI）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#660033;" parent="1" vertex="1">
+          <mxGeometry x="109" y="894" width="191" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#660033;" value="代谢风险干预（血压/血脂/BMI）" vertex="1">
-          <mxGeometry height="30" width="191" x="109" y="894" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-51" value="方法：潜在影响分率（PIF）反事实模型&amp;nbsp;&lt;div&gt;设定：分别将特定风险暴露降低 10%、20%、30%&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#660033;" parent="1" vertex="1">
+          <mxGeometry x="172.5" y="854" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#660033;" value="方法：潜在影响分率（PIF）反事实模型&amp;nbsp;&lt;div&gt;设定：分别将特定风险暴露降低 10%、20%、30%&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="310" x="172.5" y="854" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006633;" parent="1" vertex="1">
+          <mxGeometry x="109" y="984" width="452.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006633;" value="" vertex="1">
-          <mxGeometry height="130" width="452.5" x="109" y="984" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-53" value="研究结论与政策建议" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#006633;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="274.75" y="994" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#006633;fontStyle=1" value="研究结论与政策建议" vertex="1">
-          <mxGeometry height="30" width="110" x="274.75" y="994" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-54" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;为防控築略转型提供循证依据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006633;" parent="1" vertex="1">
+          <mxGeometry x="332.5" y="1024" width="169.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006633;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;为防控築略转型提供循证依据&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="169.5" x="332.5" y="1024" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-56" value="&lt;div&gt;明确一级预防优先干预靶点&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006633;" parent="1" vertex="1">
+          <mxGeometry x="148" y="1024" width="164.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006633;" value="&lt;div&gt;明确一级预防优先干预靶点&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="164.5" x="148" y="1024" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-57" value="&lt;div&gt;模拟代谢风险干预收益&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006633;" parent="1" vertex="1">
+          <mxGeometry x="148" y="1064" width="164.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006633;" value="&lt;div&gt;量化代谢风险干预收益&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="164.5" x="148" y="1064" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-58" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;推动防控重心向基层下沉&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006633;" parent="1" vertex="1">
+          <mxGeometry x="332.5" y="1064" width="169.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006633;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;推动防控重心向基层前移&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="169.5" x="332.5" y="1064" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-72" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;labelBorderColor=default;labelBackgroundColor=default;fontColor=#4C0099;" parent="1" vertex="1">
+          <mxGeometry x="65" y="190" width="525" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;labelBorderColor=default;labelBackgroundColor=default;fontColor=#4C0099;" value="" vertex="1">
-          <mxGeometry height="120" width="525" x="65" y="190" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-73" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="65" y="347" width="525" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="" vertex="1">
-          <mxGeometry height="120" width="525" x="65" y="347" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-75" value="方法：年龄标准化率（ASR）+估计年度变化百分比（EAPC）&amp;nbsp;&lt;div&gt;分析：各层DALY率、空间分布、性别年龄分层特征&lt;/div&gt;&lt;div&gt;目的：明确历史疾病负担情况与高危人群&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#4C0099;" parent="1" vertex="1">
+          <mxGeometry x="117.75" y="250" width="366" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#4C0099;" value="方法：年龄标准化率（ASR）+估计年度变化百分比（EAPC）&amp;nbsp;&lt;div&gt;分析：各层DALY率、空间分布、性别年龄分层特征&lt;/div&gt;&lt;div&gt;目的：明确历史疾病负担情况与高危人群&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="366" x="117.75" y="250" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-76" value="&lt;font&gt;&lt;span style=&quot;caret-color: rgb(0, 76, 153);&quot;&gt;研究内容二：1990-2050年疾病负担未来趋势预测&lt;/span&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#003333;" parent="1" vertex="1">
+          <mxGeometry x="185" y="357" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#003333;" value="&lt;font&gt;&lt;span style=&quot;caret-color: rgb(0, 76, 153);&quot;&gt;研究内容二：1990-2050年疾病负担未来趋势预测&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="270" x="185" y="357" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-77" value="&lt;font&gt;&lt;span style=&quot;caret-color: rgb(0, 76, 153);&quot;&gt;研究内容一：1990-2023年疾病负担历史趋势分析&lt;/span&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#4C0099;" parent="1" vertex="1">
+          <mxGeometry x="185" y="210" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#4C0099;" value="&lt;font&gt;&lt;span style=&quot;caret-color: rgb(0, 76, 153);&quot;&gt;研究内容一：1990-2023年疾病负担历史趋势分析&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="270" x="185" y="210" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-78" value="方法：贝叶斯模型平均（BMA）&amp;nbsp;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;   &lt;/span&gt;泊松回归（SDI+年龄+地区）- ARIMA残差修正 - BIC加权平均&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;分析：2050年各地区DALY率预測曲线与热力图&amp;nbsp;&lt;/span&gt;&lt;div&gt;目的：预测未来医疗体系面临的疾病负担规模&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#003333;" parent="1" vertex="1">
+          <mxGeometry x="123.5" y="397" width="366" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#003333;" value="方法：贝叶斯模型平均（BMA）&amp;nbsp;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;   &lt;/span&gt;泊松回归（SDI+年龄协变量）- ARIMA残差修正 - BIC加权至&lt;div&gt;分析：2050年各地区DALY率预測曲线与热力图&amp;nbsp;&lt;/div&gt;&lt;div&gt;目的：量化未来医疗体系面临的疾病负担规模&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="366" x="123.5" y="397" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-80" value="&lt;span style=&quot;caret-color: rgb(115, 109, 52); color: rgb(115, 109, 52); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;方法：比较风险评估+EAPC趋势测度&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="212.5" y="693" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-80" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;caret-color: rgb(115, 109, 52); color: rgb(115, 109, 52); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;方法：比较风险评估+EAPC趋势测度&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="230" x="212.5" y="693" as="geometry" />
-        </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-82" edge="1" parent="1" style="endArrow=blockThin;html=1;rounded=0;endFill=1;strokeColor=#808080;strokeWidth=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
+        <mxCell id="pPdNYl5p3d496LgT7030-82" value="" style="endArrow=blockThin;html=1;rounded=0;endFill=1;strokeColor=#808080;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="318" y="157" as="sourcePoint" />
             <mxPoint x="318" y="191" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-84" edge="1" parent="1" style="endArrow=blockThin;html=1;rounded=0;endFill=1;strokeColor=#808080;strokeWidth=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
+        <mxCell id="pPdNYl5p3d496LgT7030-84" value="" style="endArrow=blockThin;html=1;rounded=0;endFill=1;strokeColor=#808080;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="319" y="625" as="sourcePoint" />
             <mxPoint x="319" y="662" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-86" edge="1" parent="1" style="endArrow=blockThin;html=1;rounded=0;endFill=1;strokeColor=#808080;strokeWidth=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
+        <mxCell id="pPdNYl5p3d496LgT7030-86" value="" style="endArrow=blockThin;html=1;rounded=0;endFill=1;strokeColor=#808080;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="318.08" y="32" as="sourcePoint" />
             <mxPoint x="318.08" y="66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-87" edge="1" parent="1" style="endArrow=blockThin;html=1;rounded=0;endFill=1;strokeColor=#808080;strokeWidth=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
+        <mxCell id="pPdNYl5p3d496LgT7030-87" value="" style="endArrow=blockThin;html=1;rounded=0;endFill=1;strokeColor=#808080;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="312" as="sourcePoint" />
             <mxPoint x="320" y="346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-90" edge="1" parent="1" style="endArrow=blockThin;html=1;rounded=0;endFill=1;strokeColor=#808080;strokeWidth=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
+        <mxCell id="pPdNYl5p3d496LgT7030-90" value="" style="endArrow=blockThin;html=1;rounded=0;endFill=1;strokeColor=#808080;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="467" as="sourcePoint" />
             <mxPoint x="320" y="501" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-91" edge="1" parent="1" style="endArrow=blockThin;html=1;rounded=0;endFill=1;strokeColor=#808080;strokeWidth=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
+        <mxCell id="pPdNYl5p3d496LgT7030-91" value="" style="endArrow=blockThin;html=1;rounded=0;endFill=1;strokeColor=#808080;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320.72" y="785" as="sourcePoint" />
             <mxPoint x="320.72" y="822" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-92" edge="1" parent="1" style="endArrow=blockThin;html=1;rounded=0;endFill=1;strokeColor=#808080;strokeWidth=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
+        <mxCell id="pPdNYl5p3d496LgT7030-92" value="" style="endArrow=blockThin;html=1;rounded=0;endFill=1;strokeColor=#808080;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="319.72" y="944" as="sourcePoint" />
             <mxPoint x="319.72" y="983" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(77, 77, 77);&quot;&gt;基线&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="600" y="235" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-93" value="&lt;span style=&quot;color: rgb(77, 77, 77);&quot;&gt;基线&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="235" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-94" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#4D4D4D;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pPdNYl5p3d496LgT7030-93" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
+        <mxCell id="pPdNYl5p3d496LgT7030-94" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#4D4D4D;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="pPdNYl5p3d496LgT7030-93" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="630" y="330" />
             </Array>
@@ -178,11 +175,11 @@
             <mxPoint x="650" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;caret-color: rgb(77, 77, 77); color: rgb(77, 77, 77);&quot;&gt;预测&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="600" y="397" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-95" value="&lt;span style=&quot;caret-color: rgb(77, 77, 77); color: rgb(77, 77, 77);&quot;&gt;预测&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="397" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-96" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#4D4D4D;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pPdNYl5p3d496LgT7030-95" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
+        <mxCell id="pPdNYl5p3d496LgT7030-96" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#4D4D4D;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="pPdNYl5p3d496LgT7030-95" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="630" y="492" />
             </Array>
@@ -190,11 +187,11 @@
             <mxPoint x="650" y="452" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;caret-color: rgb(77, 77, 77);&quot;&gt;分解&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22text%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Brounded%3D0%3B%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(77%2C%2077%2C%2077)%3B%26quot%3B%26gt%3B%E5%9F%BA%E7%BA%BF%26lt%3B%2Fspan%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2230%22%20width%3D%2260%22%20x%3D%22600%22%20y%3D%22235%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20edge%3D%221%22%20parent%3D%221%22%20style%3D%22endArrow%3Dnone%3Bdashed%3D1%3Bhtml%3D1%3Brounded%3D0%3BstrokeColor%3D%234D4D4D%3BentryX%3D0.5%3BentryY%3D1%3BentryDx%3D0%3BentryDy%3D0%3B%22%20target%3D%222%22%20value%3D%22%22%3E%3CmxGeometry%20height%3D%2250%22%20relative%3D%221%22%20width%3D%2250%22%20as%3D%22geometry%22%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22630%22%20y%3D%22330%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22610%22%20y%3D%22350%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22650%22%20y%3D%22290%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="600" y="559" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-97" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;caret-color: rgb(77, 77, 77);&quot;&gt;分解&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22text%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Brounded%3D0%3B%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(77%2C%2077%2C%2077)%3B%26quot%3B%26gt%3B%E5%9F%BA%E7%BA%BF%26lt%3B%2Fspan%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2230%22%20width%3D%2260%22%20x%3D%22600%22%20y%3D%22235%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20edge%3D%221%22%20parent%3D%221%22%20style%3D%22endArrow%3Dnone%3Bdashed%3D1%3Bhtml%3D1%3Brounded%3D0%3BstrokeColor%3D%234D4D4D%3BentryX%3D0.5%3BentryY%3D1%3BentryDx%3D0%3BentryDy%3D0%3B%22%20target%3D%222%22%20value%3D%22%22%3E%3CmxGeometry%20height%3D%2250%22%20relative%3D%221%22%20width%3D%2250%22%20as%3D%22geometry%22%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22630%22%20y%3D%22330%22%2F%3E%3C%2FArray%3E%3CmxPoint%20x%3D%22610%22%20y%3D%22350%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22650%22%20y%3D%22290%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="559" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-98" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#4D4D4D;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pPdNYl5p3d496LgT7030-97" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
+        <mxCell id="pPdNYl5p3d496LgT7030-98" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#4D4D4D;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="pPdNYl5p3d496LgT7030-97" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="630" y="654" />
             </Array>
@@ -202,11 +199,11 @@
             <mxPoint x="650" y="614" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-99" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;caret-color: rgb(77, 77, 77);&quot;&gt;归因&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="600" y="718" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-99" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;caret-color: rgb(77, 77, 77);&quot;&gt;归因&lt;/span&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="718" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-100" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#4D4D4D;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pPdNYl5p3d496LgT7030-99" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
+        <mxCell id="pPdNYl5p3d496LgT7030-100" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#4D4D4D;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="pPdNYl5p3d496LgT7030-99" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="630" y="813" />
             </Array>
@@ -214,17 +211,20 @@
             <mxPoint x="650" y="773" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;caret-color: rgb(77, 77, 77);&quot;&gt;模拟&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="600" y="884" as="geometry" />
+        <mxCell id="pPdNYl5p3d496LgT7030-101" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;caret-color: rgb(77, 77, 77);&quot;&gt;模拟&lt;/span&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="884" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPdNYl5p3d496LgT7030-102" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#4D4D4D;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="pPdNYl5p3d496LgT7030-101" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
+        <mxCell id="pPdNYl5p3d496LgT7030-102" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#4D4D4D;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="pPdNYl5p3d496LgT7030-101" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="630" y="979" />
             </Array>
             <mxPoint x="610" y="999" as="sourcePoint" />
             <mxPoint x="650" y="939" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="o8SBXXM0if1vaCaxI34d-1" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;实证研究&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontColor=#3B635D;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="-20" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
